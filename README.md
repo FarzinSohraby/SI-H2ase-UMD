@@ -21,3 +21,5 @@ This is the Supporting Information for the paper of UMD simulations of H2ase
 
 7-Chi2-test-Mdg.ipynb
 	This notebook was used for the chi-square statistical test for the binding and unbinding pathways of Mdg H2ase.
+
+8 and 9- Pymol session files containing the Df and Mdg H2ase tunnels indentified by CAVER plug-in tool in pymol.
