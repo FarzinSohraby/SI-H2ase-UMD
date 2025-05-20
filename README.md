@@ -21,6 +21,3 @@ This is the Supporting Information for the paper of UMD simulations of H2ase
 
 7-Chi2-test-Mdg.ipynb
 	This notebook was used for the chi-square statistical test for the binding and unbinding pathways of Mdg H2ase.
-	
-	
-Becasue of data restrictions there is only replica 1 available just as an example.
