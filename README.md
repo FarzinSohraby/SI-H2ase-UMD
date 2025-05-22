@@ -5,7 +5,7 @@ This is the Supporting Information for the paper of UMD simulations of H2ase
 	This code has been used for calculating the distance values of each of the 100 H2 molecules in all replicas. A threshold of 5 angstrom was then used to find the binding events.
 	
 2- pbc-align-xtc.py
-	This code has been used for aligning the 75 replicas to one reference (the gro file) which we need to concatenate all the xtc files.
+	This code has been used for aligning the 75 replicas to one reference (the gro file).
 	
 3- Df-H2-10ps-FEL.ipynb
 	This notebook was used for the dimentionality reduction with TICA and then to plot the Free Energy Landscape figures for Df H2ase.
