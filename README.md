@@ -1,25 +1,25 @@
-# SI-H2ase-UMD
-This is the Supporting Information for the paper of UMD simulations of H2ase
+Supporting Information for the Paper on UMD Simulations of H₂ase
 
-1-Distance-H2-MNI-allreps.py
-	This code has been used for calculating the distance values of each of the 100 H2 molecules in all replicas. A threshold of 5 angstrom was then used to find the binding events.
-	
-2- pbc-align-xtc.py
-	This code has been used for aligning the 75 replicas to one reference (the gro file).
-	
-3- Df-H2-10ps-FEL.ipynb
-	This notebook was used for the dimentionality reduction with TICA and then to plot the Free Energy Landscape figures for Df H2ase.
-	
-4- Mdg-H2-10ps-FEL.ipynb
-	This notebook was used for the dimentionality reduction with TICA and then to plot the Free Energy Landscape figures for Mdg H2ase.
-	
-5-FPT.py
-	This code has been used for calculating the First passsage times based on the 5 angstrom threshold.
-	
-6-Chi2-test-Df.ipynb
-	This notebook was used for the chi-square statistical test for the binding and unbinding pathways of Df H2ase.
+Distance-H2-MNI-allreps.py
+This code was used to calculate the distance values of each of the 100 H₂ molecules in all replicas. A threshold of 5 Ångström was then used to identify binding events.
 
-7-Chi2-test-Mdg.ipynb
-	This notebook was used for the chi-square statistical test for the binding and unbinding pathways of Mdg H2ase.
+pbc-align-xtc.py
+This code was used to align the 75 replicas to a single reference (the .gro file).
 
-8 and 9- Pymol session files containing the Df and Mdg H2ase tunnels indentified by CAVER plug-in tool in pymol.
+Df-H2-10ps-FEL.ipynb
+This notebook was used for dimensionality reduction with TICA and to plot the Free Energy Landscape figures for Df H₂ase.
+
+Mdg-H2-10ps-FEL.ipynb
+This notebook was used for dimensionality reduction with TICA and to plot the Free Energy Landscape figures for Mdg H₂ase.
+
+FPT.py
+This code was used to calculate the First Passage Times based on the 5 Å threshold.
+
+Chi2-test-Df.ipynb
+This notebook was used for the chi-square statistical test for the binding and unbinding pathways of Df H₂ase.
+
+Chi2-test-Mdg.ipynb
+This notebook was used for the chi-square statistical test for the binding and unbinding pathways of Mdg H₂ase.
+
+8 & 9. Pymol session files
+These contain the Df and Mdg H₂ase tunnels identified using the CAVER plug-in tool in PyMOL.
