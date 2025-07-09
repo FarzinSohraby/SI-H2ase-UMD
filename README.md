@@ -18,5 +18,8 @@ This notebook was used for the chi-square statistical test for the binding and u
 Pymol session files:
 These contain the Df and Mdg H₂ase tunnels identified using the CAVER plug-in tool in PyMOL.
 
-MSM-model-Building.ipynb:
-This notebook contains the codes used to build and validate the MSM and also compute the rates.
+MSM-model-Building-Df.ipynb:
+This notebook contains the codes used to build and validate the MSM and also compute the rates for Df hydrogenase.
+
+MSM-model-Building-Mdg.ipynb:
+This notebook contains the codes used to build and validate the MSM and also compute the rates for Mdg hydrogenase.
